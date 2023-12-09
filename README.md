@@ -42,5 +42,4 @@ This script provides a convenient way to translate `.pot` files using the Google
 
 ## Disclaimer
 - This script utilizes Google Cloud Translation API which may incur charges. Please check the pricing details and your usage to avoid unexpected charges.
-- The quality of translations depends on the Google Cloud Translation API and may not always be perfect, especially for complex languages or highly technical content.
 
